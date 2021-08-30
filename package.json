@@ -1,0 +1,20 @@
+{
+  "name": "@atek-cloud/hello-world-node",
+  "version": "1.0.0",
+  "description": "A minimal example app for Atek using the NodeJS runtime.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atek-cloud/hello-world-node.git"
+  },
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atek-cloud/hello-world-node/issues"
+  },
+  "homepage": "https://github.com/atek-cloud/hello-world-node#readme"
+}
