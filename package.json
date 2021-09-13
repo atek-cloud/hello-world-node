@@ -1,6 +1,6 @@
 {
   "name": "@atek-cloud/hello-world-node",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A minimal example app for Atek using the NodeJS runtime.",
   "main": "index.js",
   "type": "module",
